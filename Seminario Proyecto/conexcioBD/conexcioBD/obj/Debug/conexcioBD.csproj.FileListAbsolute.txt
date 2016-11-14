@@ -1,0 +1,24 @@
+C:\Users\jose\Desktop\prueba\conexcioBD\conexcioBD\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\prueba\conexcioBD\conexcioBD\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\prueba\conexcioBD\conexcioBD\obj\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\prueba\conexcioBD\conexcioBD\obj\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\proyectos software\conexcioBD\conexcioBD\conexcioBD\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\proyectos software\conexcioBD\conexcioBD\conexcioBD\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\proyectos software\conexcioBD\conexcioBD\conexcioBD\obj\Debug\conexcioBD.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\proyectos software\conexcioBD\conexcioBD\conexcioBD\obj\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\proyectos software\conexcioBD\conexcioBD\conexcioBD\obj\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\agosto\conexcioBD\conexcioBD\conexcioBD\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\agosto\conexcioBD\conexcioBD\conexcioBD\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\agosto\conexcioBD\conexcioBD\conexcioBD\obj\Debug\conexcioBD.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\agosto\conexcioBD\conexcioBD\conexcioBD\obj\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\agosto\conexcioBD\conexcioBD\conexcioBD\obj\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\conexcioBD\conexcioBD\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\conexcioBD\conexcioBD\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\conexcioBD\conexcioBD\obj\Debug\conexcioBD.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\conexcioBD\conexcioBD\obj\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\conexcioBD\conexcioBD\obj\Debug\conexcioBD.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\conexcioBD\conexcioBD\bin\Debug\conexcioBD.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\conexcioBD\conexcioBD\bin\Debug\conexcioBD.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\conexcioBD\conexcioBD\obj\Debug\conexcioBD.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\conexcioBD\conexcioBD\obj\Debug\conexcioBD.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\conexcioBD\conexcioBD\obj\Debug\conexcioBD.pdb

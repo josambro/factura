@@ -1,0 +1,110 @@
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\seminario.exe
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\seminario.pdb
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.Login.resources
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\prueba\seminario\seminario\obj\Debug\seminario.form1.resources
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\clientes.dll
+C:\Users\jose\Desktop\prueba\seminario\seminario\bin\Debug\clientes.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\seminario.exe
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\seminario.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\clientes.dll
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\clientes.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.Login.resources
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.form1.resources
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\servicios.dll
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\Navegador.dll
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\ODBCconnector.dll
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\servicios.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\Navegador.pdb
+C:\Users\jose\Desktop\octubre\prueba\seminario\seminario\bin\Debug\ODBCconnector.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\seminario.exe
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\seminario.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\Navegador.dll
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\ODBCconnector.dll
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\clientes.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\servicios.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\Navegador.pdb
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\ODBCconnector.pdb
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.Login.resources
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.form1.resources
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\jose\Desktop\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\seminario\seminario\bin\Debug\servicios.dll
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\seminario.exe
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\seminario.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\ReportViewerInvoiceReport-CSharp.dll
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\servicios.dll
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\Navegador.dll
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\ODBCconnector.dll
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\clientes.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\ReportViewerInvoiceReport-CSharp.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\servicios.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\Navegador.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\bin\Debug\ODBCconnector.pdb
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.Login.resources
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.form1.resources
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\jose\Desktop\Nueva carpeta\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.Cache
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.Login.resources
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.form1.resources
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\Cesar Flores\Desktop\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.Cache
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\seminario.exe
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\seminario.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\conexcioBD.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\Navegador.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\ODBCconnector.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\clientes.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\conexcioBD.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\ReportViewerInvoiceReport-CSharp.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\servicios.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\Navegador.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\ODBCconnector.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.Login.resources
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.form1.resources
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.Cache
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\reportesFactura.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\reportesFactura.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\SIP_Administrativo.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\seminario\seminario\bin\Debug\SIP_Administrativo.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\seminario\seminario\obj\Debug\seminario.pdb
+C:\Users\jose\Desktop\Seminario-Proyecto\Seminario Proyecto\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\jose\Desktop\Seminario-Proyecto\Seminario Proyecto\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\jose\Desktop\Seminario-Proyecto\Seminario Proyecto\seminario\seminario\obj\Debug\seminario.pdb

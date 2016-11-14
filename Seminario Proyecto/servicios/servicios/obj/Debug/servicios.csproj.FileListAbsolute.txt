@@ -1,0 +1,36 @@
+C:\Users\jose\Desktop\prueba\servicios\servicios\bin\Debug\servicios.pdb
+C:\Users\jose\Desktop\prueba\servicios\servicios\bin\Debug\Navegador.dll
+C:\Users\jose\Desktop\prueba\servicios\servicios\bin\Debug\ODBCconnector.dll
+C:\Users\jose\Desktop\prueba\servicios\servicios\bin\Debug\Navegador.pdb
+C:\Users\jose\Desktop\prueba\servicios\servicios\bin\Debug\ODBCconnector.pdb
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.fr_servicio.resources
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.Usuarios.resources
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.dll
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.pdb
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.Cargar_Servicios.resources
+C:\Users\jose\Desktop\prueba\servicios\servicios\obj\Debug\servicios.Form1.resources
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.Cargar_Servicios.resources
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.fr_servicio.resources
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.Usuarios.resources
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.dll
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\obj\Debug\servicios.pdb
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\bin\Debug\servicios.pdb
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\bin\Debug\Navegador.pdb
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\bin\Debug\ODBCconnector.pdb
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\bin\Debug\conexcioBD.dll
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\bin\Debug\conexcioBD.pdb
+C:\Users\jose\Desktop\Nueva carpeta\prueba\servicios\servicios\bin\Debug\ODBCconnector.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\bin\Debug\servicios.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\bin\Debug\conexcioBD.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\bin\Debug\conexcioBD.pdb
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.Cargar_Servicios.resources
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.fr_servicio.resources
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.Usuarios.resources
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.csproj.GenerateResource.Cache
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.dll
+C:\Users\Cesar Flores\Desktop\Seminario Proyecto\Nueva carpeta (2)\servicios\servicios\obj\Debug\servicios.pdb
